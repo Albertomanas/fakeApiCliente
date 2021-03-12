@@ -131,6 +131,28 @@
         "size": "US9",
         "price": 113,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FBFdoIKKUR2Jd1igTBeD3&w=1080&q=75"
+      },
+      {
+        "date": "2020-02-05",
+        "productName": "Wotherspoon Superstar",
+        "productType": "Sneakers",
+        "brands": "Adidas",
+        "availability": true,
+        "sizeType": "Woman",
+        "size": "US14",
+        "price": 116,
+        "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FJmEONpCsSnu7cE54Hw89&w=1080&q=75"
+      },
+      {
+        "date": "2021-02-05",
+        "productName": " Pro Benny Fairfax Blue",
+        "productType": "Sneakers",
+        "brands": "Adidas",
+        "availability": true,
+        "sizeType": "Unisex",
+        "size": "US10.5",
+        "price": 250,
+        "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2Fu1kk3GxxQneNHxWjvLx7&w=1080&q=75"
       }
     ]
   }
