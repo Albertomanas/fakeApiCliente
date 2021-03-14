@@ -39,7 +39,7 @@
         "productType": "Sneakers",
         "brands": "Nike",
         "availability": true,
-        "sizeType": "Man",
+        "sizeType": "Men",
         "size": "US5",
         "price": 140,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FvxflhmF5QHbVp2FC9hg7&w=1080&q=75"
@@ -72,7 +72,7 @@
         "productType": "Collectable",
         "brands": "Nike",
         "availability": true,
-        "sizeType": "Man",
+        "sizeType": "Men",
         "size": null,
         "price": 2925,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FjPucDXt6SmOVUg9le7Sf&w=1080&q=75"
@@ -83,7 +83,7 @@
         "productType": "Sneakers",
         "brands": "Nike",
         "availability": true,
-        "sizeType": "Man",
+        "sizeType": "Men",
         "size": "US15",
         "price": 191,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FHN4xe6kERUJJ6E5aV83z&w=1080&q=75"
@@ -94,7 +94,7 @@
         "productType": "Sneakers",
         "brands": "Nike",
         "availability": true,
-        "sizeType": "Man",
+        "sizeType": "Men",
         "size": "US8.5",
         "price": 191,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FKvZTXPcOQexAIBvGGYtN&w=1080&q=75"
