@@ -7,7 +7,7 @@
         "brands": "Yeezy",
         "availability": true,
         "sizeType": "Women",
-        "size": "US9.5",
+        "size": "36",
         "price": 351,
         "img": " https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fkt-apiv2-default%2Feab44d36-80d0-4304-91e8-b4a7c500939c..png&w=1080&q=75"
       },
@@ -18,7 +18,7 @@
         "brands": "Air Jordan",
         "availability": true,
         "sizeType": "Unisex",
-        "size": "M",
+        "size": "37",
         "price": 761,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FSmLtmNLcSsqdhkByLBMf&w=1080&q=75"
       },
@@ -29,7 +29,7 @@
         "brands": "Air Jordan",
         "availability": true,
         "sizeType": "Women",
-        "size": "US6",
+        "size": "38",
         "price": 761,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FIo73XslKQUqybCkKPiJK&w=1080&q=75"
       },
@@ -40,7 +40,7 @@
         "brands": "Nike",
         "availability": true,
         "sizeType": "Men",
-        "size": "US5",
+        "size": "39",
         "price": 140,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FvxflhmF5QHbVp2FC9hg7&w=1080&q=75"
       },
@@ -51,7 +51,7 @@
         "brands": "Supreme",
         "availability": true,
         "sizeType": "Unisex",
-        "size": "US5",
+        "size": "40",
         "price": 161,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FnXvyejqTuuIQ3EMQ73J5&w=1080&q=75"
       },
@@ -62,7 +62,7 @@
         "brands": "Supreme",
         "availability": true,
         "sizeType": "Unisex",
-        "size": null,
+        "size": "41",
         "price": 116,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FSJpcVNWURFWWYllCxkoI&w=1080&q=75"
       },
@@ -73,7 +73,7 @@
         "brands": "Nike",
         "availability": true,
         "sizeType": "Men",
-        "size": null,
+        "size": "42",
         "price": 2925,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FjPucDXt6SmOVUg9le7Sf&w=1080&q=75"
       },
@@ -84,7 +84,7 @@
         "brands": "Nike",
         "availability": true,
         "sizeType": "Men",
-        "size": "US15",
+        "size": "43",
         "price": 191,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FHN4xe6kERUJJ6E5aV83z&w=1080&q=75"
       },
@@ -95,7 +95,7 @@
         "brands": "Nike",
         "availability": true,
         "sizeType": "Men",
-        "size": "US8.5",
+        "size": "44",
         "price": 191,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FKvZTXPcOQexAIBvGGYtN&w=1080&q=75"
       },
@@ -106,7 +106,7 @@
         "brands": "Converse",
         "availability": true,
         "sizeType": "Woman",
-        "size": "US3",
+        "size": "45",
         "price": 99,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FSlopWKRb6zmA7Ymgj0Pg&w=1080&q=75"
       },
@@ -117,7 +117,7 @@
         "brands": "Converse",
         "availability": true,
         "sizeType": "Unisex",
-        "size": "US3",
+        "size": "46",
         "price": 158,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2F6HlSFlvQzuiPuvpMWLMi&w=1080&q=75"
       },
@@ -128,7 +128,7 @@
         "brands": "Converse",
         "availability": true,
         "sizeType": "Unisex",
-        "size": "US9",
+        "size": "Other",
         "price": 113,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FBFdoIKKUR2Jd1igTBeD3&w=1080&q=75"
       },
@@ -139,7 +139,7 @@
         "brands": "Adidas",
         "availability": true,
         "sizeType": "Woman",
-        "size": "US14",
+        "size": "42",
         "price": 116,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FJmEONpCsSnu7cE54Hw89&w=1080&q=75"
       },
@@ -150,7 +150,7 @@
         "brands": "Adidas",
         "availability": true,
         "sizeType": "Unisex",
-        "size": "US10.5",
+        "size": "37",
         "price": 250,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2Fu1kk3GxxQneNHxWjvLx7&w=1080&q=75"
       },
@@ -161,7 +161,7 @@
         "brands": "Nike",
         "availability": false,
         "sizeType": "Unisex",
-        "size": "US14",
+        "size": "44",
         "price": 188,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FHN4xe6kERUJJ6E5aV83z&w=1080&q=75"
       },
@@ -172,7 +172,7 @@
         "brands": "Supreme",
         "availability": false,
         "sizeType": "Unisex",
-        "size": null,
+        "size": "Other",
         "price": 134,
         "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fkt-apiv2-default%2Fb14bf335-f4f3-4481-851e-d75141b85e59..png&w=1080&q=75"
       }
